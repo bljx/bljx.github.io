@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http:/"/>
-  <updated>2017-08-30T05:40:55.127Z</updated>
+  <updated>2017-09-06T12:42:28.164Z</updated>
   <id>http:/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>校园网上网攻略</title>
+    <link href="http:/2017/09/06/%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%B8%8A%E7%BD%91%E6%94%BB%E7%95%A5/"/>
+    <id>http:/2017/09/06/校园网上网攻略/</id>
+    <published>2017-09-06T02:34:47.000Z</published>
+    <updated>2017-09-06T12:42:28.164Z</updated>
+    
+    <content type="html"><![CDATA[<p>北林的小伙伴们相信此时都应该开学了，或者是在开学的路上。<br>最近16级的女生也搬入了新的13号楼宿舍。<br>但是有很多同学向北林计协（help@bjfu.org）反映，13号楼虽然容易连上wifi，但是会时常掉线。<br>男生宿舍的校园网wifi也有减弱的现象。因为使用的人实在是太多了。。。所以校园网wifi有些不够用。<br>然而这并不属于计协管理的范畴，而是由北林信息中心管理。若有问题，烦请移步信息中心。</p>
+<h2 id="无线网登陆部分"><a href="#无线网登陆部分" class="headerlink" title="无线网登陆部分"></a>无线网登陆部分</h2><p>当你连上无线网，稍等片刻（由于设备不同有所区别），就会跳出登陆页面。<br>没有的话可以通过ip网址登陆。<br>一教的、二教、图书馆、男生寝室和女生13号楼寝室，以及校园中大部分区域，<br>登陆bjfuwifi，是这个界面：<br><a href="http://202.204.122.249:8080/index.html" target="_blank" rel="external">http://202.204.122.249:8080/index.html</a><br><img src="/2017/09/06/校园网上网攻略/无线网登陆界面.png" alt="无线网登陆界面.png" title=""><br>密码登陆界面的账号为学号，初始身份证号密码为前8位。<br>扫码登陆和授权登陆界面未开通。<br>学研大厦和部分地区是这个界面：<br><a href="http://202.204.122.1/index.jsp" target="_blank" rel="external">http://202.204.122.1/index.jsp</a><br><img src="/2017/09/06/校园网上网攻略/通用计费.png" alt="通用计费.png" title=""><br>同样只开通了密码登陆界面，其他界面不可用，使用方法同上。</p>
+<h2 id="有限网登陆部分"><a href="#有限网登陆部分" class="headerlink" title="有限网登陆部分"></a>有限网登陆部分</h2><p>硬件须知：<br>有线网登陆方式多在寝室使用，这里就针对寝室来说。<br>网线使用的是普通水晶头双绞线，长度视个人需求而定。<br>首先，在一个寝室里，有一个网线接口，找到它，接上它。<br>若寝室多人使用，请购置交换机，接口数视寝室人数而定）。<br>然后再用网线连接到上网设备。</p>
+<p>申请ip：<br>登陆通用网络计费系统。<br>然后进入ip管理-&gt;ip地址申请<br><img src="/2017/09/06/校园网上网攻略/ip地址申请.png" alt="ip地址申请.png" title=""><br>千万别忘了查电脑物理地址。<br><a href="https://jingyan.baidu.com/article/08b6a591c347e914a80922ca.html" target="_blank" rel="external">电脑mac（物理地址查询）</a><br>查路由器的地址更为简单，在路由器的底部就有写着。<br>正确填入相关信息后，在ip管理-&gt;ip信息查询-&gt;详情，请记录下相关信息<br><img src="/2017/09/06/校园网上网攻略/ip信息查询.png" alt="ip信息查询.png" title=""><br>控制面板-&gt;查看网络状态和任务-&gt;更改适配器设置-&gt;以太网-&gt;右键“属性”-&gt;Internet协议版本4（TCP/IPv4）-&gt;填入ip信息<br><img src="/2017/09/06/校园网上网攻略/1.png" alt="1.png" title=""><br><img src="/2017/09/06/校园网上网攻略/2.png" alt="2.png" title=""><br><img src="/2017/09/06/校园网上网攻略/3.png" alt="3.png" title=""><br><img src="/2017/09/06/校园网上网攻略/4.png" alt="4.png" title=""><br>路由器的配置如图,进入，在静态ip页面填写我们在ip界面看到的信息：<br><img src="/2017/09/06/校园网上网攻略/路由器.png" alt="路由器.png" title=""><br>登陆界面为通用网络计费系统<br>如果是在13号楼新宿舍，直接选择动态ip即可，会自动匹配<br>登陆界面为校园网登陆界面<br>大功告成，享受上网服务吧！</p>
+<p>如果您还有问题，欢迎咨询北林计协help@bljx.org/net@bljx.org。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;北林的小伙伴们相信此时都应该开学了，或者是在开学的路上。&lt;br&gt;最近16级的女生也搬入了新的13号楼宿舍。&lt;br&gt;但是有很多同学向北林计协（help@bjfu.org）反映，13号楼虽然容易连上wifi，但是会时常掉线。&lt;br&gt;男生宿舍的校园网wifi也有减弱的现象。因为使
+    
+    </summary>
+    
+    
+      <category term="攻略" scheme="http:/tags/%E6%94%BB%E7%95%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>北林计算机与网络协会介绍</title>
